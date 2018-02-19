@@ -1,0 +1,37 @@
+Any move you make causes a "threat" counter to approach 0.  When it hits 1,
+a robot appears, and when it hits 0, the robot attacks you.  Various actions
+and items will bump up this threat counter and hold off attacks.
+
+First, search the front hall.  It will reveal a means to bar the door, which
+increases the threat countdown.  Bar the door, then go west to the work area.
+
+In the work area, search and then use the computer.  After doing this, pick up
+both items on the ground.  They can be used as weapons, giving you a total of
+three uses.  Go north to the supply room.
+
+In the supply room, search and then pick up the power cell.  It can be used
+in the prototype chamber.  Go east.
+
+Now you're in the office; go straight through (east) for now.
+
+In the proto chamber, search and it will reveal a robot.  Use the power cell.
+It will power up the robot, and it will protect you (alleviates some threat,
+but does not last long).  Go back to the office.
+
+Now search the office.  There is a keycard, so pick that up.  Then unlock
+the deadbolt.  Now you can go south to the front hall.
+
+You're back in the front hall.  Use the key card.  Then go east.
+
+In the terminal room, search the area and then use the main computer.
+Select the option to initiate the Omega Protocol.
+
+This will display a dialog.  Press enter to continue it.
+
+
+----=====SPOILER ALERT=====----
+
+The computer betrays you and you
+don't truly "win" the game.
+
+-----=====END SPOILER=====-----

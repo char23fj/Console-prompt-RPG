@@ -1,0 +1,14 @@
+This room holds various supplies and such.
+An unlocked door leads to a small office.
+The south door leads back to the work area.
+
+Nothing useful here, except...
+
+Well, there's that power cell used on some of your
+older robot models. Some of these previous prototypes
+were less advanced but less rebellious than the current
+models, and they weren't linked to the web-like AI grid
+that the others share.
+
+Maybe you could find one in the prototype chamber and
+get it running.

@@ -1,0 +1,7 @@
+In this first room are four doors.  The south door leads out.  Don't go that way.
+The east door will take you to the Master Terminal.  It has a keycard lock.
+The north door leads to an office area, but it's deadbolted from the other side.
+The mechanical work area lies beyond the west door.
+
+There is a small switchboard that triggers the security system, barring the
+front door.  It could hold your attackers out for a bit.

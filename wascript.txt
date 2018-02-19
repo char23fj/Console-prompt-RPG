@@ -1,0 +1,12 @@
+This is a mechanical work area.  Some tools are lying about;
+something on one of these tables might be useful.
+
+Two doors in this room - the east door you just came through,
+and the north door, which leads to a supply room.  This one
+is unlocked.
+
+But there is a computer here which might have something else
+for you.  You recall a program you designed for when your
+robots were acting up.  It freezes a bot's opertions by
+inserting a code snippet with an infinite loop into its
+operating system.  Could be worth a look.

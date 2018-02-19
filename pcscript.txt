@@ -1,0 +1,6 @@
+You're in the prototype chamber.  All around you are
+robots you've created.  Some of them were never brought
+to functioning status, while some were operational for
+a time but are now broken or obsolete.
+
+One among them looks familiar; this warrants a closer look.
